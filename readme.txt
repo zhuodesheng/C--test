@@ -1,3 +1,2 @@
-git is a distributed version control system
-git is free software
-git has a mutable index called stage.
+This just as a test of C++
+helloWorld as ths first demo
