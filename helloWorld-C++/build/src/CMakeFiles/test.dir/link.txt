@@ -1,0 +1,2 @@
+D:/MinGW/bin/ar.exe qc libTest.a  CMakeFiles/Test.dir/animal.cpp.obj CMakeFiles/Test.dir/human.cpp.obj CMakeFiles/Test.dir/testHead.cpp.obj
+D:/MinGW/bin/ranlib.exe libTest.a

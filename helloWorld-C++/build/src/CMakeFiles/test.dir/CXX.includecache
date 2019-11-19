@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/c++_test/helloWorld/include/animal.h
+string
+-
+
+E:/c++_test/helloWorld/src/animal.cpp
+iostream
+-
+string
+-
+../include/animal.h
+E:/c++_test/helloWorld/include/animal.h
+

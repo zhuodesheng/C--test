@@ -1,0 +1,22 @@
+[
+{
+  "directory": "E:/C++-git/helloWorld-C++/build",
+  "command": "D:/MinGW/bin/g++.exe    -g   -o CMakeFiles/main.dir/main.cpp.obj -c E:/C++-git/helloWorld-C++/main.cpp",
+  "file": "E:/C++-git/helloWorld-C++/main.cpp"
+},
+{
+  "directory": "E:/C++-git/helloWorld-C++/build/src",
+  "command": "D:/MinGW/bin/g++.exe    -g   -o CMakeFiles/Test.dir/animal.cpp.obj -c E:/C++-git/helloWorld-C++/src/animal.cpp",
+  "file": "E:/C++-git/helloWorld-C++/src/animal.cpp"
+},
+{
+  "directory": "E:/C++-git/helloWorld-C++/build/src",
+  "command": "D:/MinGW/bin/g++.exe    -g   -o CMakeFiles/Test.dir/human.cpp.obj -c E:/C++-git/helloWorld-C++/src/human.cpp",
+  "file": "E:/C++-git/helloWorld-C++/src/human.cpp"
+},
+{
+  "directory": "E:/C++-git/helloWorld-C++/build/src",
+  "command": "D:/MinGW/bin/g++.exe    -g   -o CMakeFiles/Test.dir/testHead.cpp.obj -c E:/C++-git/helloWorld-C++/src/testHead.cpp",
+  "file": "E:/C++-git/helloWorld-C++/src/testHead.cpp"
+}
+]
