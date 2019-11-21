@@ -1,0 +1,6 @@
+E:/C++-git/pointerTest/build/CMakeFiles/pointerTest.dir
+E:/C++-git/pointerTest/build/CMakeFiles/edit_cache.dir
+E:/C++-git/pointerTest/build/CMakeFiles/rebuild_cache.dir
+E:/C++-git/pointerTest/build/src/CMakeFiles/rebuild_cache.dir
+E:/C++-git/pointerTest/build/src/CMakeFiles/Test.dir
+E:/C++-git/pointerTest/build/src/CMakeFiles/edit_cache.dir

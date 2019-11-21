@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/C++-git/pointerTest/build",
+  "command": "D:/MinGW/bin/g++.exe    -g   -o CMakeFiles/pointerTest.dir/main.cpp.obj -c E:/C++-git/pointerTest/main.cpp",
+  "file": "E:/C++-git/pointerTest/main.cpp"
+},
+{
+  "directory": "E:/C++-git/pointerTest/build/src",
+  "command": "D:/MinGW/bin/g++.exe    -g   -o CMakeFiles/Test.dir/pointer.cpp.obj -c E:/C++-git/pointerTest/src/pointer.cpp",
+  "file": "E:/C++-git/pointerTest/src/pointer.cpp"
+}
+]

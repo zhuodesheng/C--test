@@ -10,27 +10,17 @@ E:/C++-git/helloWorld-C++/include/animal.h
 string
 -
 
-E:/C++-git/helloWorld-C++/src/animal.cpp
+E:/C++-git/helloWorld-C++/main.cpp
 iostream
 -
-string
--
-../include/animal.h
+src/testHead.h
+E:/C++-git/helloWorld-C++/src/testHead.h
+src/human.h
+E:/C++-git/helloWorld-C++/src/human.h
+include/animal.h
 E:/C++-git/helloWorld-C++/include/animal.h
 
-E:/C++-git/helloWorld-C++/src/human.cpp
-iostream
--
-human.h
 E:/C++-git/helloWorld-C++/src/human.h
-
-E:/C++-git/helloWorld-C++/src/human.h
-
-E:/C++-git/helloWorld-C++/src/testHead.cpp
-iostream
--
-testHead.h
-E:/C++-git/helloWorld-C++/src/testHead.h
 
 E:/C++-git/helloWorld-C++/src/testHead.h
 

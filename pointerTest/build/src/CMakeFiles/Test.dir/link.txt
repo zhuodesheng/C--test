@@ -1,0 +1,2 @@
+D:/MinGW/bin/ar.exe qc libTest.a  CMakeFiles/Test.dir/pointer.cpp.obj
+D:/MinGW/bin/ranlib.exe libTest.a

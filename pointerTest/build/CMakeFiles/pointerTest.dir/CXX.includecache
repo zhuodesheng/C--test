@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/C++-git/pointerTest/include/pointer.h
+string
+-
+
+E:/C++-git/pointerTest/main.cpp
+iostream
+-
+include/pointer.h
+E:/C++-git/pointerTest/include/pointer.h
+
