@@ -1,0 +1,2 @@
+D:/MinGW/bin/ar.exe qc libcmakeMoudle.a  CMakeFiles/cmakeMoudle.dir/cmakeMoudle.cpp.obj
+D:/MinGW/bin/ranlib.exe libcmakeMoudle.a

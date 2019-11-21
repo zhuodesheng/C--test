@@ -1,0 +1,22 @@
+[
+{
+  "directory": "E:/C++-git/cmakeMoudleTest/build/friendTest",
+  "command": "D:/MinGW/bin/g++.exe    -g   -o CMakeFiles/friend.dir/main.cpp.obj -c E:/C++-git/cmakeMoudleTest/friendTest/main.cpp",
+  "file": "E:/C++-git/cmakeMoudleTest/friendTest/main.cpp"
+},
+{
+  "directory": "E:/C++-git/cmakeMoudleTest/build/friendTest/src",
+  "command": "D:/MinGW/bin/g++.exe    -g   -o CMakeFiles/friendTest.dir/box.cpp.obj -c E:/C++-git/cmakeMoudleTest/friendTest/src/box.cpp",
+  "file": "E:/C++-git/cmakeMoudleTest/friendTest/src/box.cpp"
+},
+{
+  "directory": "E:/C++-git/cmakeMoudleTest/build/inlineTest",
+  "command": "D:/MinGW/bin/g++.exe    -g   -o CMakeFiles/inline.dir/main.cpp.obj -c E:/C++-git/cmakeMoudleTest/inlineTest/main.cpp",
+  "file": "E:/C++-git/cmakeMoudleTest/inlineTest/main.cpp"
+},
+{
+  "directory": "E:/C++-git/cmakeMoudleTest/build/inlineTest/src",
+  "command": "D:/MinGW/bin/g++.exe    -g   -o CMakeFiles/inlineTest.dir/inline.cpp.obj -c E:/C++-git/cmakeMoudleTest/inlineTest/src/inline.cpp",
+  "file": "E:/C++-git/cmakeMoudleTest/inlineTest/src/inline.cpp"
+}
+]

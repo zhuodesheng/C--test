@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/C++-git/cmakeMoudleTest/inlineTest/include/inline.h
+string
+-
+
+E:/C++-git/cmakeMoudleTest/inlineTest/src/inline.cpp
+iostream
+-
+../include/inline.h
+E:/C++-git/cmakeMoudleTest/inlineTest/include/inline.h
+

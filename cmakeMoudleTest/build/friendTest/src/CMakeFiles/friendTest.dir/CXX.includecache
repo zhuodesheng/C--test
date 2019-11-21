@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/C++-git/cmakeMoudleTest/friendTest/include/box.h
+
+E:/C++-git/cmakeMoudleTest/friendTest/src/box.cpp
+iostream
+-
+../include/box.h
+E:/C++-git/cmakeMoudleTest/friendTest/include/box.h
+

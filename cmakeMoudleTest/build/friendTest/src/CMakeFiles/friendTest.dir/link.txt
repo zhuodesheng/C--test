@@ -1,0 +1,2 @@
+D:/MinGW/bin/ar.exe qc ../../../lib/libfriendTest.a  CMakeFiles/friendTest.dir/box.cpp.obj
+D:/MinGW/bin/ranlib.exe ../../../lib/libfriendTest.a

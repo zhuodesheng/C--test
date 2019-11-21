@@ -1,0 +1,2 @@
+D:/MinGW/bin/ar.exe qc ../../../lib/libinlineTest.a  CMakeFiles/inlineTest.dir/inline.cpp.obj
+D:/MinGW/bin/ranlib.exe ../../../lib/libinlineTest.a
