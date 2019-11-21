@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/C++-git/structTest/build",
+  "command": "D:/MinGW/bin/g++.exe    -g   -o CMakeFiles/structTest.dir/main.cpp.obj -c E:/C++-git/structTest/main.cpp",
+  "file": "E:/C++-git/structTest/main.cpp"
+},
+{
+  "directory": "E:/C++-git/structTest/build/src",
+  "command": "D:/MinGW/bin/g++.exe    -g   -o CMakeFiles/Test.dir/test.cpp.obj -c E:/C++-git/structTest/src/test.cpp",
+  "file": "E:/C++-git/structTest/src/test.cpp"
+}
+]

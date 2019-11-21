@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/C++-git/structTest/include/test.h
+
+E:/C++-git/structTest/src/test.cpp
+iostream
+-
+../include/test.h
+E:/C++-git/structTest/include/test.h
+

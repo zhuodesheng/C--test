@@ -1,0 +1,10 @@
+E:/C++-git/structTest/build/CMakeFiles/structTest.dir
+E:/C++-git/structTest/build/CMakeFiles/package.dir
+E:/C++-git/structTest/build/CMakeFiles/package_source.dir
+E:/C++-git/structTest/build/CMakeFiles/edit_cache.dir
+E:/C++-git/structTest/build/CMakeFiles/rebuild_cache.dir
+E:/C++-git/structTest/build/src/CMakeFiles/rebuild_cache.dir
+E:/C++-git/structTest/build/src/CMakeFiles/Test.dir
+E:/C++-git/structTest/build/src/CMakeFiles/package.dir
+E:/C++-git/structTest/build/src/CMakeFiles/package_source.dir
+E:/C++-git/structTest/build/src/CMakeFiles/edit_cache.dir
