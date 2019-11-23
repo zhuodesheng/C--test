@@ -1,0 +1,3 @@
+this is a thread test.
+use thread : traditional method : win32 of Thread model ;but win32 can't solve the thread problem;
+but posix od thread model as the better case for the problem;
