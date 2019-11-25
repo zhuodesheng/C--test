@@ -15,6 +15,8 @@ int main(){
    StreamSpace::copyData(games);
    StreamSpace::printGames(games,5);
    StreamSpace::printGames2(&games[0],&games[4]);
+   // StreamSpace::test_detach("E:\\C++-git\\cmakeMoudleTest\\streamTest\\1.txt");
+   StreamSpace::test_join("E:\\C++-git\\cmakeMoudleTest\\streamTest\\1.txt");
    system("pause");
    return 0;
 }

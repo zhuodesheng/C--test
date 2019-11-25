@@ -24,7 +24,9 @@ namespace StreamSpace
     void printGames(Game games[],int size);
     void printGames2(const Game* begin,const Game* end);
     void copyData(Game games[]);
-    
+    void thread_read_file(int tid, const std::string& file_path);
+    void test_detach(const std::string& file_path);
+    void test_join(const std::string& filee_path);
 } // namespace StreamSpace
 
 #endif
